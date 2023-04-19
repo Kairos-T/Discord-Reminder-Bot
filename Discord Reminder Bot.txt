@@ -23,4 +23,4 @@ async def on_message(message):
  
         await message.channel.send(f'Reminder set for {reminder_time}: {reminder}')
 
-client.run('YOUR_BOT_TOKEN')
+client.run('')#Bot Token No.
